@@ -26,6 +26,3 @@ The goal of this practice is to build a strong foundation in Python before movin
 * Jupyter Notebook
 
 This is part of my learning journey towards becoming a Data Analyst.
-
-This is part of my learning journey towards becoming a Data Analyst.
-
